@@ -1,0 +1,16 @@
+  dataset_root: /root/robot_learn/MIT_INDOOR67/robot-scene-understanding/datasets/mit_indoor67
+  train_list: TrainImages.txt
+  test_list: TestImages.txt
+
+  model: resnet50
+  num_classes: 67
+  pretrained: true
+
+  image_size: 224
+  batch_size: 128
+  num_workers: 8
+  epochs: 30
+  lr: 0.0001
+  weight_decay: 0.0001
+  output_dir: outputs
+

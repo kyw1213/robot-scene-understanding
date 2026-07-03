@@ -1,16 +1,16 @@
-  __pycache__/
-  *.pyc
-  .ipynb_checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
 
-  outputs/checkpoints/
-  outputs/logs/
-  outputs/predictions/
-  *.pth
-  *.pt
-  *.ckpt
+outputs/checkpoints/
+outputs/logs/
+outputs/predictions/
+*.pth
+*.pt
+*.ckpt
 
-  .env
-  .DS_Store
+.env
+.DS_Store
 
-  datasets/
-  data/
+datasets/
+data/

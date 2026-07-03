@@ -1,0 +1,11 @@
+  torch
+  torchvision
+  tqdm
+  pyyaml
+  numpy
+  pillow
+  matplotlib
+  scikit-learn
+  seaborn
+  open_clip_torch
+
